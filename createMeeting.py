@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import urllib, random
-from fonctions import checksumUrl
+from checksumUrl import checksumUrl
 
 #je declare les variables variables
 
