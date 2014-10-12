@@ -1,5 +1,3 @@
-###Mes fonctions
-
 #creer l'url avec son checksum
 
 import hashlib
